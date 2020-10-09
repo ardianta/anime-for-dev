@@ -15,10 +15,8 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [New Game!](https://myanimelist.net/anime/31953/New_Game)                                |  Game, Slice of Life, Comedy   | Summer 2016 | ⭐ 7.64       |
 | 🎞 [New Game!!](https://myanimelist.net/anime/34914/New_Game)                                |  Game, Slice of Life, Comedy   |  Summer 2017 | ⭐ 7.79      |
 | 🎞 [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759/Sakura-sou_no_Pet_na_Kanojo)  | Slice of Life, Comedy, Drama, Romance, School |  Fall 2012 | ⭐ 8.22      |
-| 🎞 [Mahouka Koukou no Rettousei](https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei)  | Action, Sci-Fi, Supernatural, Magic, Romance, School |  Spring 2014 | ⭐ 7.58      |
 | 🎞 [Boku no Hero Academia](https://myanimelist.net/anime/31964/Boku_no_Hero_Academia)  | Action, Comedy, School, Shounen, Super Power |  Spring 2016 | ⭐ 8.18      |
-| 🎞 [Boku no Hero Academia 2nd Season](https://myanimelist.net/anime/33486/Boku_no_Hero_Academia_2nd_Season)  | Action, Comedy, Super Power, School, Shounen |  Spring 2017 | ⭐ 8.42      |
-| 🎞 [Boku no Hero Academia 3rd Season](https://myanimelist.net/anime/36456/Boku_no_Hero_Academia_3rd_Season)  | Action, Comedy, Super Power, School, Shounen |  Spring 2018 | ⭐ 8.34      |
+
 
 
 Inspired by [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
