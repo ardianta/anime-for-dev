@@ -3,8 +3,8 @@
   Before you make PR, please fill this form
 -->
 
-- **Title**: <!-- Replace with anime's title -->
-- **Link**: <!-- Replace with MyAnimeList link -->
+- **Title**: <!-- Write anime's title here -->
+- **Link**: <!-- Write MyAnimeList's link here -->
 
 **Why this anime should watched by developer?**
 
