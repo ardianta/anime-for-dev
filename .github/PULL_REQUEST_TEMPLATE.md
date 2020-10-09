@@ -8,5 +8,5 @@
 
 **Why this anime should watched by developer?**
 
-<-- write your answer -->
-<-- for example: Some of characher of this anime are programmer/hacker -->
+<!-- write your answer -->
+<!-- for example: Some of characher of this anime are programmer/hacker -->
