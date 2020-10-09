@@ -2,11 +2,8 @@
 A curated list of animes every developer should watch.
 
 <!-- Please sort by alphabetical order (a-z) and use romaji or english title -->
-<!-- 
-Legend
-🎞 = Anime series
-📽 = Anime Movie
--->
+
+Legend: 🎞 = Anime series, 📽 = Anime Movie
 
 | TITLE                                                                                      | GENRE                          | SEASON/YEAR | MAL SCORE  |
 |--------------------------------------------------------------------------------------------|--------------------------------|-------------|------------|
