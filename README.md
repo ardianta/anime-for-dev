@@ -19,7 +19,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate)        |  Thriller, Sci-Fi | Spring 2011 | ⭐ 9.12 | 
 | 📽 [Summer Wars](https://myanimelist.net/anime/5681/Summer_Wars)        |  Sci-Fi, Comedy | 2009 | ⭐ 8.11 | 
 | 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
-
+| 📽 [Battle Programmer Shirase](https://myanimelist.net/anime/579/Battle_Programmer_Shirase)        |   Comedy, Ecchi, Sci-Fi | 2004 | ⭐ 7.64 | 
 
 
 Inspired by [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
