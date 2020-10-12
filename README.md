@@ -23,8 +23,9 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Sewayaki Kitsune no Senko-san](https://myanimelist.net/anime/38759/Sewayaki_Kitsune_no_Senko-san)        |   Comedy, Romance, Slice of Life, Supernatural | Spring 2019 | ⭐ 7.38 |
 | 🎞 [Steins Gate](https://myanimelist.net/anime/9253/Steins_Gate)        |  Thriller, Sci-Fi | Spring 2011 | ⭐ 9.12 | 
 | 📽 [Summer Wars](https://myanimelist.net/anime/5681/Summer_Wars)        |  Sci-Fi, Comedy | 2009 | ⭐ 8.11 | 
-| 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
 | 📽 [The Animatrix](https://myanimelist.net/anime/1303/The_Animatrix)        |  Action, Drama, Sci-Fi | 2003 | ⭐ 7.29 | 
+| 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
+
 
 
 
