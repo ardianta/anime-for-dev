@@ -23,6 +23,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Steins Gate](https://myanimelist.net/anime/9253/Steins_Gate)        |  Thriller, Sci-Fi | Spring 2011 | ⭐ 9.12 | 
 | 📽 [Summer Wars](https://myanimelist.net/anime/5681/Summer_Wars)        |  Sci-Fi, Comedy | 2009 | ⭐ 8.11 | 
 | 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
+| 🎞 [Kamisama no Memochou](https://myanimelist.net/anime/10568/Kamisama_no_Memochou)  | Mystery | Summer 2011 | ⭐ 7.55 |
 
 
 
