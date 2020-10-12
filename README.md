@@ -19,6 +19,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 📽 [Koukaku Kidoutai](https://myanimelist.net/anime/43/Koukaku_Kidoutai)        |  Action, Mecha, Police, Psychological, Sci-Fi, Seinen  | 1995 | ⭐ 8.30 |
 | 🎞 [New Game!](https://myanimelist.net/anime/31953/New_Game)                                |  Game, Slice of Life, Comedy   | Summer 2016 | ⭐ 7.64       |
 | 🎞 [New Game!!](https://myanimelist.net/anime/34914/New_Game)                                |  Game, Slice of Life, Comedy   |  Summer 2017 | ⭐ 7.79      |
+| 🎞 [Persona 5 the Animation](https://myanimelist.net/anime/36023/Persona_5_the_Animation) | Action, Fantasy, Supernatural | Spring 2018 | ⭐ 6.51 |
 | 🎞 [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759/Sakura-sou_no_Pet_na_Kanojo)  | Slice of Life, Comedy, Drama, Romance, School |  Fall 2012 | ⭐ 8.22      |
 | 🎞 [Sewayaki Kitsune no Senko-san](https://myanimelist.net/anime/38759/Sewayaki_Kitsune_no_Senko-san)        |   Comedy, Romance, Slice of Life, Supernatural | Spring 2019 | ⭐ 7.38 |
 | 🎞 [Steins Gate](https://myanimelist.net/anime/9253/Steins_Gate)        |  Thriller, Sci-Fi | Spring 2011 | ⭐ 9.12 | 
