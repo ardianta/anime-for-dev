@@ -1,3 +1,7 @@
+# OS Filesystem
+.directory
+.DS_Store
+
 # Logs
 logs
 *.log
