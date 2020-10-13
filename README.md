@@ -39,4 +39,5 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 
 
 
+
 Inspired by [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
