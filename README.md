@@ -15,6 +15,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Cowboy Bebop](https://myanimelist.net/anime/1/Cowboy_Bebop)        |    Action, Adventure, Comedy, Drama, Sci-Fi, Space | Spring 1998 | ⭐ 8.79 | 
 | 🎞 [Dagashi Kashi](https://myanimelist.net/anime/31636/Dagashi_Kashi)        |   Comedy, Shounen, Slice of Life | Winter 2016 | ⭐ 6.65 | 
 | 🎞 [Deca-Dence](https://myanimelist.net/anime/40056/Deca-Dence)                                |  Action, Sci-Fi, Adventure   | Summer 2020 | ⭐ 7.57       |
+| 🎞 [Guilty Crown](https://myanimelist.net/anime/10793/Guilty_Crown)                   |Action, Sci-Fi, Super Power, Drama, Romance, Mecha | Fall 2011 | ⭐ 7.55 |
 | 🎞 [Kamisama no Memochou](https://myanimelist.net/anime/10568/Kamisama_no_Memochou)  | Mystery | Summer 2011 | ⭐ 7.55 |
 | 📽 [Koukaku Kidoutai](https://myanimelist.net/anime/43/Koukaku_Kidoutai)        |  Action, Mecha, Police, Psychological, Sci-Fi, Seinen  | 1995 | ⭐ 8.30 |
 | 🎞 [New Game!](https://myanimelist.net/anime/31953/New_Game)                                |  Game, Slice of Life, Comedy   | Summer 2016 | ⭐ 7.64       |
