@@ -31,10 +31,12 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Sekirei](https://myanimelist.net/anime/4063/Sekirei)                 |  Action, Comedy, Ecchi, Harem, Super Power| Summer 2008 | ⭐ 7.16|
 | 🎞 [Sewayaki Kitsune no Senko-san](https://myanimelist.net/anime/38759/Sewayaki_Kitsune_no_Senko-san)        |   Comedy, Romance, Slice of Life, Supernatural | Spring 2019 | ⭐ 7.38 |
 | 🎞 [Steins Gate](https://myanimelist.net/anime/9253/Steins_Gate)        |  Thriller, Sci-Fi | Spring 2011 | ⭐ 9.12 | 
+| 🎞 [Sword Art Online](https://myanimelist.net/anime/11757/Sword_Art_Online)        |  Action, Game, Adventure, Romance, Fantasy | Summer 2012 | ⭐ 7.30 | 
 | 📽 [Summer Wars](https://myanimelist.net/anime/5681/Summer_Wars)        |  Sci-Fi, Comedy | 2009 | ⭐ 8.11 | 
 | 📽 [The Animatrix](https://myanimelist.net/anime/1303/The_Animatrix)        |  Action, Drama, Sci-Fi | 2003 | ⭐ 7.29 | 
 | 🎞 [Tonikaku Kawaii](https://myanimelist.net/anime/41389/Tonikaku_Kawaii)    | Comedy, Romance, Shounen | Fall 2020 | ⭐ 7.78 |
 | 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
+
 
 
 
