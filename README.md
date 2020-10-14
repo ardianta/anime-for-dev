@@ -27,6 +27,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 📽 [No Game No Life: Zero](https://myanimelist.net/anime/33674/No_Game_No_Life__Zero)        |  Game, Supernatural, Drama, Romance, Fantasy | Summer 2017 | ⭐ 8.38 |
 | 🎞 [Persona 5 the Animation](https://myanimelist.net/anime/36023/Persona_5_the_Animation) | Action, Fantasy, Supernatural | Spring 2018 | ⭐ 6.51 |
 | 🎞 [Psycho-Pass](https://myanimelist.net/anime/13601/Psycho-Pass)        |   Action, Sci-Fi, Police, Psychological | Fall 2012 | ⭐ 8.39 | 
+| 🎞 [Saenai Heroine no Sodatekata](https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata)        |  Harem, Comedy, Romance, Ecchi, School | Winter 2015 | ⭐ 7.55 | 
 | 🎞 [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759/Sakura-sou_no_Pet_na_Kanojo)  | Slice of Life, Comedy, Drama, Romance, School |  Fall 2012 | ⭐ 8.22      |
 | 🎞 [Sekirei](https://myanimelist.net/anime/4063/Sekirei)                 |  Action, Comedy, Ecchi, Harem, Super Power| Summer 2008 | ⭐ 7.16|
 | 🎞 [Sewayaki Kitsune no Senko-san](https://myanimelist.net/anime/38759/Sewayaki_Kitsune_no_Senko-san)        |   Comedy, Romance, Slice of Life, Supernatural | Spring 2019 | ⭐ 7.38 |
