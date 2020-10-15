@@ -39,6 +39,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 📽 [The Animatrix](https://myanimelist.net/anime/1303/The_Animatrix)        |  Action, Drama, Sci-Fi | 2003 | ⭐ 7.29 | 
 | 🎞 [Tonikaku Kawaii](https://myanimelist.net/anime/41389/Tonikaku_Kawaii)    | Comedy, Romance, Shounen | Fall 2020 | ⭐ 7.78 |
 | 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
+| 🎞 [Monster](https://myanimelist.net/anime/19/Monster)        |  Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller | Spring 2004 | ⭐ 8.73 | 
 
 
 
