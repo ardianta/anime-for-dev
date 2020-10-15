@@ -22,6 +22,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Guilty Crown](https://myanimelist.net/anime/10793/Guilty_Crown)                   |Action, Sci-Fi, Super Power, Drama, Romance, Mecha | Fall 2011 | ⭐ 7.55 |
 | 🎞 [Kamisama no Memochou](https://myanimelist.net/anime/10568/Kamisama_no_Memochou)  | Mystery | Summer 2011 | ⭐ 7.55 |
 | 📽 [Koukaku Kidoutai](https://myanimelist.net/anime/43/Koukaku_Kidoutai)        |  Action, Mecha, Police, Psychological, Sci-Fi, Seinen  | 1995 | ⭐ 8.30 |
+| 🎞 [Gamers!](https://myanimelist.net/anime/34280/Gamers)        |  Game, Comedy, Romance, School | Summer 2017 | ⭐ 6.98 |
 | 🎞 [New Game!](https://myanimelist.net/anime/31953/New_Game)                                |  Game, Slice of Life, Comedy   | Summer 2016 | ⭐ 7.64       |
 | 🎞 [New Game!!](https://myanimelist.net/anime/34914/New_Game)                                |  Game, Slice of Life, Comedy   |  Summer 2017 | ⭐ 7.79      |
 | 🎞 [No Game No Life](https://myanimelist.net/anime/19815/No_Game_No_Life)        |  Game, Adventure, Comedy, Supernatural, Ecchi, Fantasy | Spring 2014 | ⭐ 8.24 |
@@ -38,6 +39,8 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 📽 [The Animatrix](https://myanimelist.net/anime/1303/The_Animatrix)        |  Action, Drama, Sci-Fi | 2003 | ⭐ 7.29 | 
 | 🎞 [Tonikaku Kawaii](https://myanimelist.net/anime/41389/Tonikaku_Kawaii)    | Comedy, Romance, Shounen | Fall 2020 | ⭐ 7.78 |
 | 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
+
+
 
 
 
