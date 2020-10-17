@@ -14,6 +14,9 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 📽 [Battle Programmer Shirase](https://myanimelist.net/anime/579/Battle_Programmer_Shirase) |   Comedy, Ecchi, Sci-Fi | 2004 | ⭐ 7.64 |
 | 📽 [Blood-C: The Last Dark](https://myanimelist.net/anime/10681/Blood-C__The_Last_Dark)        |  Action, Horror, Supernatural, Vampire | 2012 | ⭐ 7.21 | 
 | 📽 [Byousoku 5 Centimeter](https://myanimelist.net/anime/1689/Byousoku_5_Centimeter)        | Drama, Romance, Slice of Life | 2007 | ⭐ 7.78 | 
+| 🎞 [Bungou Stray Dogs](https://myanimelist.net/anime/31478/Bungou_Stray_Dogs) |  Action, Comedy, Mystery, Seinen, Super Power, Supernatural | Spring 2016 | ⭐ 7.78 |  
+| 🎞 [Bungou Stray Dogs 2nd Season](https://myanimelist.net/anime/32867/Bungou_Stray_Dogs_2nd_Season) | Action, Mystery, Seinen, Super Power, Supernatural | Fall 2016 | ⭐ 8.22 |
+| 🎞 [Bungou Stray Dogs 3rd Season](https://myanimelist.net/anime/38003/Bungou_Stray_Dogs_3rd_Season) | Action, Mystery, Seinen, Super Power, Supernatural | Spring 2019 | ⭐ 8.16 |	
 | 🎞 [Chuunibyou demo Koi ga Shitai!](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai)        |  Drama, Comedy, Slice of Life, Romance, School | Fall 2012 | ⭐ 7.78 |
 | 🎞 [Chuunibyou demo Koi ga Shitai! Ren](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai)        |  Drama, Comedy, Slice of Life, Romance, School | Winter 2014 | ⭐ 7.56 |
 | 📽 [Chuunibyou demo Koi ga Shitai! Movie: Take On Me](https://myanimelist.net/anime/35608/Chuunibyou_demo_Koi_ga_Shitai_Movie__Take_On_Me)        |  Drama, Comedy, Slice of Life, Romance, School | Winter 2018 | ⭐ 8.17 |
