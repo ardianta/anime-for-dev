@@ -36,7 +36,9 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759/Sakura-sou_no_Pet_na_Kanojo)  | Slice of Life, Comedy, Drama, Romance, School |  Fall 2012 | ⭐ 8.22      |
 | 🎞 [Sekirei](https://myanimelist.net/anime/4063/Sekirei)                 |  Action, Comedy, Ecchi, Harem, Super Power| Summer 2008 | ⭐ 7.16|
 | 🎞 [Sewayaki Kitsune no Senko-san](https://myanimelist.net/anime/38759/Sewayaki_Kitsune_no_Senko-san)        |   Comedy, Romance, Slice of Life, Supernatural | Spring 2019 | ⭐ 7.38 |
-| 🎞 [Steins Gate](https://myanimelist.net/anime/9253/Steins_Gate)        |  Thriller, Sci-Fi | Spring 2011 | ⭐ 9.12 | 
+| 🎞 [Steins; Gate](https://myanimelist.net/anime/9253/Steins_Gate)        |  Thriller, Sci-Fi | Spring 2011 | ⭐ 9.12 | 
+| 📽 [Steins; Gate Movie: Fuka Ryouiki no Deja Vu](https://myanimelist.net/anime/11577/Steins_Gate_Movie__Fuka_Ryouiki_no_Deja_vu) | Sci-Fi, Drama | 2013 | ⭐ 8.51 |  
+| 🎞 [Steins; Gate 0](https://myanimelist.net/anime/30484/Steins_Gate_0) | Sci-Fi, Thriller | Spring 2018 | ⭐ 8.52 | 
 | 🎞 [Sword Art Online](https://myanimelist.net/anime/11757/Sword_Art_Online)        |  Action, Game, Adventure, Romance, Fantasy | Summer 2012 | ⭐ 7.30 | 
 | 🎞 [Sword Art Online II](https://myanimelist.net/anime/21881/Sword_Art_Online_II)     | Action, Game, Adventure, Romance, Fantasy | Summer 2014 | ⭐ 6.86 |
 | 📽 [Sword Art Online Movie: Ordinal Scale](https://myanimelist.net/anime/31765/Sword_Art_Online_Movie__Ordinal_Scale) |  Action, Game, Adventure, Romance, Fantasy | 2017 | ⭐ 7.70 |
