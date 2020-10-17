@@ -14,6 +14,9 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 📽 [Battle Programmer Shirase](https://myanimelist.net/anime/579/Battle_Programmer_Shirase) |   Comedy, Ecchi, Sci-Fi | 2004 | ⭐ 7.64 |
 | 📽 [Blood-C: The Last Dark](https://myanimelist.net/anime/10681/Blood-C__The_Last_Dark)        |  Action, Horror, Supernatural, Vampire | 2012 | ⭐ 7.21 | 
 | 📽 [Byousoku 5 Centimeter](https://myanimelist.net/anime/1689/Byousoku_5_Centimeter)        | Drama, Romance, Slice of Life | 2007 | ⭐ 7.78 | 
+| 🎞 [Bungou Stray Dogs](https://myanimelist.net/anime/31478/Bungou_Stray_Dogs) |  Action, Comedy, Mystery, Seinen, Super Power, Supernatural | Spring 2016 | ⭐ 7.78 |  
+| 🎞 [Bungou Stray Dogs 2nd Season](https://myanimelist.net/anime/32867/Bungou_Stray_Dogs_2nd_Season) | Action, Mystery, Seinen, Super Power, Supernatural | Fall 2016 | ⭐ 8.22 |
+| 🎞 [Bungou Stray Dogs 3rd Season](https://myanimelist.net/anime/38003/Bungou_Stray_Dogs_3rd_Season) | Action, Mystery, Seinen, Super Power, Supernatural | Spring 2019 | ⭐ 8.16 |	
 | 🎞 [Chuunibyou demo Koi ga Shitai!](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai)        |  Drama, Comedy, Slice of Life, Romance, School | Fall 2012 | ⭐ 7.78 |
 | 🎞 [Chuunibyou demo Koi ga Shitai! Ren](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai)        |  Drama, Comedy, Slice of Life, Romance, School | Winter 2014 | ⭐ 7.56 |
 | 📽 [Chuunibyou demo Koi ga Shitai! Movie: Take On Me](https://myanimelist.net/anime/35608/Chuunibyou_demo_Koi_ga_Shitai_Movie__Take_On_Me)        |  Drama, Comedy, Slice of Life, Romance, School | Winter 2018 | ⭐ 8.17 |
@@ -33,9 +36,15 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759/Sakura-sou_no_Pet_na_Kanojo)  | Slice of Life, Comedy, Drama, Romance, School |  Fall 2012 | ⭐ 8.22      |
 | 🎞 [Sekirei](https://myanimelist.net/anime/4063/Sekirei)                 |  Action, Comedy, Ecchi, Harem, Super Power| Summer 2008 | ⭐ 7.16|
 | 🎞 [Sewayaki Kitsune no Senko-san](https://myanimelist.net/anime/38759/Sewayaki_Kitsune_no_Senko-san)        |   Comedy, Romance, Slice of Life, Supernatural | Spring 2019 | ⭐ 7.38 |
-| 🎞 [Steins Gate](https://myanimelist.net/anime/9253/Steins_Gate)        |  Thriller, Sci-Fi | Spring 2011 | ⭐ 9.12 | 
+| 🎞 [Steins; Gate](https://myanimelist.net/anime/9253/Steins_Gate)        |  Thriller, Sci-Fi | Spring 2011 | ⭐ 9.12 | 
+| 📽 [Steins; Gate Movie: Fuka Ryouiki no Deja Vu](https://myanimelist.net/anime/11577/Steins_Gate_Movie__Fuka_Ryouiki_no_Deja_vu) | Sci-Fi, Drama | 2013 | ⭐ 8.51 |  
+| 🎞 [Steins; Gate 0](https://myanimelist.net/anime/30484/Steins_Gate_0) | Sci-Fi, Thriller | Spring 2018 | ⭐ 8.52 | 
 | 🎞 [Sword Art Online](https://myanimelist.net/anime/11757/Sword_Art_Online)        |  Action, Game, Adventure, Romance, Fantasy | Summer 2012 | ⭐ 7.30 | 
-| 📽 [Summer Wars](https://myanimelist.net/anime/5681/Summer_Wars)        |  Sci-Fi, Comedy | 2009 | ⭐ 8.11 | 
+| 🎞 [Sword Art Online II](https://myanimelist.net/anime/21881/Sword_Art_Online_II)     | Action, Game, Adventure, Romance, Fantasy | Summer 2014 | ⭐ 6.86 |
+| 📽 [Sword Art Online Movie: Ordinal Scale](https://myanimelist.net/anime/31765/Sword_Art_Online_Movie__Ordinal_Scale) |  Action, Game, Adventure, Romance, Fantasy | 2017 | ⭐ 7.70 |
+| 🎞 [Sword Art Online: Alicization ](https://myanimelist.net/anime/36474/Sword_Art_Online__Alicization) |  Action, Game, Adventure, Romance, Fantasy | Fall 2018 | ⭐ 7.59 |
+| 🎞 [Sword Art Online: Alicization - War Of Underworld](https://myanimelist.net/anime/40540/Sword_Art_Online__Alicization_-_War_of_Underworld_2nd_Season) | Summer 2020 | ⭐ 7.46 |
+| 📽 [Summer Wars](https://myanimelist.net/anime/5681/Summer_Wars)        |  Sci-Fi, Comedy | 2009 | ⭐ 8.11 | 7.46
 | 📽 [The Animatrix](https://myanimelist.net/anime/1303/The_Animatrix)        |  Action, Drama, Sci-Fi | 2003 | ⭐ 7.29 | 
 | 🎞 [Tonikaku Kawaii](https://myanimelist.net/anime/41389/Tonikaku_Kawaii)    | Comedy, Romance, Shounen | Fall 2020 | ⭐ 7.78 |
 | 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
