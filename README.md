@@ -48,6 +48,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 📽 [The Animatrix](https://myanimelist.net/anime/1303/The_Animatrix)        |  Action, Drama, Sci-Fi | 2003 | ⭐ 7.29 | 
 | 🎞 [Tonikaku Kawaii](https://myanimelist.net/anime/41389/Tonikaku_Kawaii)    | Comedy, Romance, Shounen | Fall 2020 | ⭐ 7.78 |
 | 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
+| 🎞 [from upon poppy hill](https://myanimelist.net/anime/10029/Coquelicot-zaka_kara)        |  Historical, Romance, School, Shoujo | Summer 2016 | ⭐ 7.88 | 
 
 
 
