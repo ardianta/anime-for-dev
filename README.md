@@ -28,8 +28,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion)      | Action, Sci-Fi, Dementia, Psychological, Drama, Mecha| Fall 1995| ⭐ 8.31 |   
 | 🎞 [Fugou Keiji: Balance:Unlimited](https://myanimelist.net/anime/41120/Fugou_Keiji__Balance_Unlimited)      | Action, Comedy, Police, Mystery| Spring 2020 | ⭐ 7.63 |   
 | 🎞 [Guilty Crown](https://myanimelist.net/anime/10793/Guilty_Crown)                   |Action, Sci-Fi, Super Power, Drama, Romance, Mecha | Fall 2011 | ⭐ 7.55 |
-| 🎞 [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)                   |Dementia, Drama, Mystery, Psychological, Sci-Fi, Supernatural| Summer 1998| ⭐ 8.02 |
-| 🎞 [Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya)](https://myanimelist.net/anime/849/Suzumiya_Haruhi_no_Yuuutsu)                   |Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life| Spring 2006| ⭐ 7.89 |
+| 🎞 [Kamisama ni Natta Hi](https://myanimelist.net/anime/41930/Kamisama_ni_Natta_Hi) |  Drama, Fantasy | Fall 2020 | ⭐ 7.58 |
 | 🎞 [Kamisama no Memochou](https://myanimelist.net/anime/10568/Kamisama_no_Memochou)  | Mystery | Summer 2011 | ⭐ 7.55 |
 | 📽 [Koukaku Kidoutai](https://myanimelist.net/anime/43/Koukaku_Kidoutai)        |  Action, Mecha, Police, Psychological, Sci-Fi, Seinen  | 1995 | ⭐ 8.30 |
 | 🎞 [New Game!](https://myanimelist.net/anime/31953/New_Game)                                |  Game, Slice of Life, Comedy   | Summer 2016 | ⭐ 7.64       |
@@ -41,10 +40,12 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Saenai Heroine no Sodatekata](https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata)        |  Harem, Comedy, Romance, Ecchi, School | Winter 2015 | ⭐ 7.55 | 
 | 🎞 [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759/Sakura-sou_no_Pet_na_Kanojo)  | Slice of Life, Comedy, Drama, Romance, School |  Fall 2012 | ⭐ 8.22      |
 | 🎞 [Sekirei](https://myanimelist.net/anime/4063/Sekirei)                 |  Action, Comedy, Ecchi, Harem, Super Power| Summer 2008 | ⭐ 7.16|
+| 🎞 [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)                   |Dementia, Drama, Mystery, Psychological, Sci-Fi, Supernatural| Summer 1998| ⭐ 8.02 |
 | 🎞 [Sewayaki Kitsune no Senko-san](https://myanimelist.net/anime/38759/Sewayaki_Kitsune_no_Senko-san)        |   Comedy, Romance, Slice of Life, Supernatural | Spring 2019 | ⭐ 7.38 |
 | 🎞 [Steins; Gate](https://myanimelist.net/anime/9253/Steins_Gate)        |  Thriller, Sci-Fi | Spring 2011 | ⭐ 9.12 | 
 | 📽 [Steins; Gate Movie: Fuka Ryouiki no Deja Vu](https://myanimelist.net/anime/11577/Steins_Gate_Movie__Fuka_Ryouiki_no_Deja_vu) | Sci-Fi, Drama | 2013 | ⭐ 8.51 |  
 | 🎞 [Steins; Gate 0](https://myanimelist.net/anime/30484/Steins_Gate_0) | Sci-Fi, Thriller | Spring 2018 | ⭐ 8.52 | 
+| 🎞 [Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya)](https://myanimelist.net/anime/849/Suzumiya_Haruhi_no_Yuuutsu)                   |Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life | Spring 2006| ⭐ 7.89 |
 | 🎞 [Sword Art Online](https://myanimelist.net/anime/11757/Sword_Art_Online)        |  Action, Game, Adventure, Romance, Fantasy | Summer 2012 | ⭐ 7.30 | 
 | 🎞 [Sword Art Online II](https://myanimelist.net/anime/21881/Sword_Art_Online_II)     | Action, Game, Adventure, Romance, Fantasy | Summer 2014 | ⭐ 6.86 |
 | 📽 [Sword Art Online Movie: Ordinal Scale](https://myanimelist.net/anime/31765/Sword_Art_Online_Movie__Ordinal_Scale) |  Action, Game, Adventure, Romance, Fantasy | 2017 | ⭐ 7.70 |
