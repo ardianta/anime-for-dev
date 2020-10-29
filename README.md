@@ -31,6 +31,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)                   |Dementia, Drama, Mystery, Psychological, Sci-Fi, Supernatural| Summer 1998| ⭐ 8.02 |
 | 🎞 [Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya)](https://myanimelist.net/anime/849/Suzumiya_Haruhi_no_Yuuutsu)                   |Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life| Spring 2006| ⭐ 7.89 |
 | 🎞 [Kamisama no Memochou](https://myanimelist.net/anime/10568/Kamisama_no_Memochou)  | Mystery | Summer 2011 | ⭐ 7.55 |
+| 🎞 [Kanojo, Okarishimasu](https://myanimelist.net/anime/40839/Kanojo_Okarishimasu)  | Comedy, Romance, School, Shounen | Summer 2020 | ⭐ 7.37 |
 | 📽 [Koukaku Kidoutai](https://myanimelist.net/anime/43/Koukaku_Kidoutai)        |  Action, Mecha, Police, Psychological, Sci-Fi, Seinen  | 1995 | ⭐ 8.30 |
 | 🎞 [New Game!](https://myanimelist.net/anime/31953/New_Game)                                |  Game, Slice of Life, Comedy   | Summer 2016 | ⭐ 7.64       |
 | 🎞 [New Game!!](https://myanimelist.net/anime/34914/New_Game)                                |  Game, Slice of Life, Comedy   |  Summer 2017 | ⭐ 7.79      |
