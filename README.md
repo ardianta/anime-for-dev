@@ -28,6 +28,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion)      | Action, Sci-Fi, Dementia, Psychological, Drama, Mecha| Fall 1995| ⭐ 8.31 |   
 | 🎞 [Fugou Keiji: Balance:Unlimited](https://myanimelist.net/anime/41120/Fugou_Keiji__Balance_Unlimited)      | Action, Comedy, Police, Mystery| Spring 2020 | ⭐ 7.63 |   
 | 🎞 [Guilty Crown](https://myanimelist.net/anime/10793/Guilty_Crown)                   |Action, Sci-Fi, Super Power, Drama, Romance, Mecha | Fall 2011 | ⭐ 7.55 |
+| 📽 [Hello World](https://myanimelist.net/anime/38816/Hello_World)                   | Sci-Fi, Drama, Romance | 2019 | ⭐ 7.61 |
 | 🎞 [Kamisama ni Natta Hi](https://myanimelist.net/anime/41930/Kamisama_ni_Natta_Hi) |  Drama, Fantasy | Fall 2020 | ⭐ 7.58 |
 | 🎞 [Kamisama no Memochou](https://myanimelist.net/anime/10568/Kamisama_no_Memochou)  | Mystery | Summer 2011 | ⭐ 7.55 |
 | 🎞 [Kami-tachi ni Hirowareta Otoko](https://myanimelist.net/anime/10568/Kamisama_no_Memochou)  | Adventure, Slice of Life, Magic, Fantasy | Fall 2020 | ⭐ 6.77 |
@@ -37,7 +38,8 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [No Game No Life](https://myanimelist.net/anime/19815/No_Game_No_Life)        |  Game, Adventure, Comedy, Supernatural, Ecchi, Fantasy | Spring 2014 | ⭐ 8.24 |
 | 📽 [No Game No Life: Zero](https://myanimelist.net/anime/33674/No_Game_No_Life__Zero)        |  Game, Supernatural, Drama, Romance, Fantasy | Summer 2017 | ⭐ 8.38 |
 | 🎞 [Persona 5 the Animation](https://myanimelist.net/anime/36023/Persona_5_the_Animation) | Action, Fantasy, Supernatural | Spring 2018 | ⭐ 6.51 |
-| 🎞 [Psycho-Pass](https://myanimelist.net/anime/13601/Psycho-Pass)        |   Action, Sci-Fi, Police, Psychological | Fall 2012 | ⭐ 8.39 | 
+| 🎞 [Psycho-Pass](https://myanimelist.net/anime/13601/Psycho-Pass)        |   Action, Sci-Fi, Police, Psychological | Fall 2012 | ⭐ 8.39 |
+| 🎞 [Rikei ga Koi ni Ochita no de Shoumei shitemita](https://myanimelist.net/anime/38992/Rikei_ga_Koi_ni_Ochita_no_de_Shoumei_shitemita)	|	Comedy, Romance | Winter 2020 | ⭐ 7.35 | 
 | 🎞 [Saenai Heroine no Sodatekata](https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata)        |  Harem, Comedy, Romance, Ecchi, School | Winter 2015 | ⭐ 7.55 | 
 | 🎞 [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759/Sakura-sou_no_Pet_na_Kanojo)  | Slice of Life, Comedy, Drama, Romance, School |  Fall 2012 | ⭐ 8.22      |
 | 🎞 [Sekirei](https://myanimelist.net/anime/4063/Sekirei)                 |  Action, Comedy, Ecchi, Harem, Super Power| Summer 2008 | ⭐ 7.16|
