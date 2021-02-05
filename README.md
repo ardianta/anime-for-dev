@@ -28,6 +28,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion)      | Action, Sci-Fi, Dementia, Psychological, Drama, Mecha| Fall 1995| ⭐ 8.31 |   
 | 🎞 [Fugou Keiji: Balance:Unlimited](https://myanimelist.net/anime/41120/Fugou_Keiji__Balance_Unlimited)      | Action, Comedy, Police, Mystery| Spring 2020 | ⭐ 7.63 |   
 | 🎞 [Guilty Crown](https://myanimelist.net/anime/10793/Guilty_Crown)                   |Action, Sci-Fi, Super Power, Drama, Romance, Mecha | Fall 2011 | ⭐ 7.55 |
+| 📽 [Hello World](https://myanimelist.net/anime/38816/Hello_World)                   | Sci-Fi, Drama, Romance | 2019 | ⭐ 7.61 |
 | 🎞 [Kamisama ni Natta Hi](https://myanimelist.net/anime/41930/Kamisama_ni_Natta_Hi) |  Drama, Fantasy | Fall 2020 | ⭐ 7.58 |
 | 🎞 [Kamisama no Memochou](https://myanimelist.net/anime/10568/Kamisama_no_Memochou)  | Mystery | Summer 2011 | ⭐ 7.55 |
 | 🎞 [Kami-tachi ni Hirowareta Otoko](https://myanimelist.net/anime/10568/Kamisama_no_Memochou)  | Adventure, Slice of Life, Magic, Fantasy | Fall 2020 | ⭐ 6.77 |
