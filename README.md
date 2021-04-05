@@ -61,7 +61,8 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Tonikaku Kawaii](https://myanimelist.net/anime/41389/Tonikaku_Kawaii)    | Comedy, Romance, Shounen | Fall 2020 | ⭐ 7.78 |
 | 🎞 [Vivy: Fluorite Eye's Song](https://myanimelist.net/anime/46095/Vivy__Fluorite_Eyes_Song)    | Sci-Fi, Music | Spring 2021 | ⭐ 8.04 |
 | 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
-
+| 🎞 [Jujutsu Kaisen (TV)](https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV)        |  Action, Horror, Demons, Supernatural, School, Shounen | Fall 2020 | ⭐ 8.14 |
+| 🎞 [Himitsukessha Taka no Tsume: Golden Spell](https://myanimelist.net/anime/42657/Himitsukessha_Taka_no_Tsume__Golden_Spell)        |  Comedy, Parody, Super Power | Fall 2020 | ⭐ N/A |
 
 
 
