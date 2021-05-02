@@ -21,6 +21,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Chuunibyou demo Koi ga Shitai!](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai)        |  Drama, Comedy, Slice of Life, Romance, School | Fall 2012 | ⭐ 7.78 |
 | 🎞 [Chuunibyou demo Koi ga Shitai! Ren](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai)        |  Drama, Comedy, Slice of Life, Romance, School | Winter 2014 | ⭐ 7.56 |
 | 📽 [Chuunibyou demo Koi ga Shitai! Movie: Take On Me](https://myanimelist.net/anime/35608/Chuunibyou_demo_Koi_ga_Shitai_Movie__Take_On_Me)        |  Drama, Comedy, Slice of Life, Romance, School | Winter 2018 | ⭐ 8.17 |
+| 🎞 [Code Geass: Hangyaku no Lelouch](https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch)        |  Action, Military, Sci-Fi, Super Power | Fall 2006 | ⭐ 8.72 |
 | 🎞 [Cowboy Bebop](https://myanimelist.net/anime/1/Cowboy_Bebop)        |    Action, Adventure, Comedy, Drama, Sci-Fi, Space | Spring 1998 | ⭐ 8.79 | 
 | 🎞 [Dagashi Kashi](https://myanimelist.net/anime/31636/Dagashi_Kashi)        |   Comedy, Shounen, Slice of Life | Winter 2016 | ⭐ 6.65 | 
 | 🎞 [Deca-Dence](https://myanimelist.net/anime/40056/Deca-Dence)                                |  Action, Sci-Fi, Adventure   | Summer 2020 | ⭐ 7.57       |
