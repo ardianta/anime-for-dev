@@ -35,6 +35,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Kami-tachi ni Hirowareta Otoko](https://myanimelist.net/anime/10568/Kamisama_no_Memochou)  | Adventure, Slice of Life, Magic, Fantasy | Fall 2020 | ⭐ 6.77 |
 | 🎞 [Kemono Jihen](https://myanimelist.net/anime/40908/Kemono_Jihen)        |   Action, Mystery, Demons, Supernatural, Shounen | Winter 2021 | ⭐ 7.46 |
 | 📽 [Koukaku Kidoutai](https://myanimelist.net/anime/43/Koukaku_Kidoutai)        |  Action, Mecha, Police, Psychological, Sci-Fi, Seinen  | 1995 | ⭐ 8.30 |
+| 🎞 [Gamers!](https://myanimelist.net/anime/34280/Gamers)        |  Game, Comedy, Romance, School | Summer 2017 | ⭐ 6.98 |
 | 🎞 [New Game!](https://myanimelist.net/anime/31953/New_Game)                                |  Game, Slice of Life, Comedy   | Summer 2016 | ⭐ 7.64       |
 | 🎞 [New Game!!](https://myanimelist.net/anime/34914/New_Game)                                |  Game, Slice of Life, Comedy   |  Summer 2017 | ⭐ 7.79      |
 | 🎞 [No Game No Life](https://myanimelist.net/anime/19815/No_Game_No_Life)        |  Game, Adventure, Comedy, Supernatural, Ecchi, Fantasy | Spring 2014 | ⭐ 8.24 |
@@ -61,6 +62,8 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Tonikaku Kawaii](https://myanimelist.net/anime/41389/Tonikaku_Kawaii)    | Comedy, Romance, Shounen | Fall 2020 | ⭐ 7.78 |
 | 🎞 [Vivy: Fluorite Eye's Song](https://myanimelist.net/anime/46095/Vivy__Fluorite_Eyes_Song)    | Sci-Fi, Music | Spring 2021 | ⭐ 8.04 |
 | 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
+
+
 
 
 
