@@ -32,7 +32,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 📽 [Hello World](https://myanimelist.net/anime/38816/Hello_World)                   | Sci-Fi, Drama, Romance | 2019 | ⭐ 7.61 |
 | 🎞 [Kamisama ni Natta Hi](https://myanimelist.net/anime/41930/Kamisama_ni_Natta_Hi) |  Drama, Fantasy | Fall 2020 | ⭐ 7.58 |
 | 🎞 [Kamisama no Memochou](https://myanimelist.net/anime/10568/Kamisama_no_Memochou)  | Mystery | Summer 2011 | ⭐ 7.55 |
-| 🎞 [Kami-tachi ni Hirowareta Otoko](https://myanimelist.net/anime/10568/Kamisama_no_Memochou)  | Adventure, Slice of Life, Magic, Fantasy | Fall 2020 | ⭐ 6.77 |
+| 🎞 [Kami-tachi ni Hirowareta Otoko](https://myanimelist.net/anime/41312/Kami-tachi_ni_Hirowareta_Otoko)  | Adventure, Slice of Life, Magic, Fantasy | Fall 2020 | ⭐ 6.91 |
 | 🎞 [Kemono Jihen](https://myanimelist.net/anime/40908/Kemono_Jihen)        |   Action, Mystery, Demons, Supernatural, Shounen | Winter 2021 | ⭐ 7.46 |
 | 📽 [Koukaku Kidoutai](https://myanimelist.net/anime/43/Koukaku_Kidoutai)        |  Action, Mecha, Police, Psychological, Sci-Fi, Seinen  | 1995 | ⭐ 8.30 |
 | 🎞 [New Game!](https://myanimelist.net/anime/31953/New_Game)                                |  Game, Slice of Life, Comedy   | Summer 2016 | ⭐ 7.64       |
