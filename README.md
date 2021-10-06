@@ -61,7 +61,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Tonikaku Kawaii](https://myanimelist.net/anime/41389/Tonikaku_Kawaii)    | Comedy, Romance, Shounen | Fall 2020 | ⭐ 7.78 |
 | 🎞 [Vivy: Fluorite Eye's Song](https://myanimelist.net/anime/46095/Vivy__Fluorite_Eyes_Song)    | Sci-Fi, Music | Spring 2021 | ⭐ 8.04 |
 | 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
-
+| 🎞 [Choujigen Game Neptune The Animation](https://myanimelist.net/anime/16157/Choujigen_Game_Neptune_The_Animation)    |  Action, Comedy, Fantasy, Sci-Fi, Supernatural | Summer 2013 | ⭐ 6.95 | 
 
 
 
