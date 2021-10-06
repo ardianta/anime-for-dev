@@ -18,9 +18,11 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Bungou Stray Dogs](https://myanimelist.net/anime/31478/Bungou_Stray_Dogs) |  Action, Comedy, Mystery, Seinen, Super Power, Supernatural | Spring 2016 | ⭐ 7.78 |  
 | 🎞 [Bungou Stray Dogs 2nd Season](https://myanimelist.net/anime/32867/Bungou_Stray_Dogs_2nd_Season) | Action, Mystery, Seinen, Super Power, Supernatural | Fall 2016 | ⭐ 8.22 |
 | 🎞 [Bungou Stray Dogs 3rd Season](https://myanimelist.net/anime/38003/Bungou_Stray_Dogs_3rd_Season) | Action, Mystery, Seinen, Super Power, Supernatural | Spring 2019 | ⭐ 8.16 |	
+| Winter 2018 | ⭐ 8.17 |
+| 🎞 [Choujigen Game Neptune The Animation](https://myanimelist.net/anime/16157/Choujigen_Game_Neptune_The_Animation)    |  Action, Comedy, Fantasy, Sci-Fi, Supernatural | Summer 2013 | ⭐ 6.95 | 
 | 🎞 [Chuunibyou demo Koi ga Shitai!](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai)        |  Drama, Comedy, Slice of Life, Romance, School | Fall 2012 | ⭐ 7.78 |
 | 🎞 [Chuunibyou demo Koi ga Shitai! Ren](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai)        |  Drama, Comedy, Slice of Life, Romance, School | Winter 2014 | ⭐ 7.56 |
-| 📽 [Chuunibyou demo Koi ga Shitai! Movie: Take On Me](https://myanimelist.net/anime/35608/Chuunibyou_demo_Koi_ga_Shitai_Movie__Take_On_Me)        |  Drama, Comedy, Slice of Life, Romance, School | Winter 2018 | ⭐ 8.17 |
+| 📽 [Chuunibyou demo Koi ga Shitai! Movie: Take On Me](https://myanimelist.net/anime/35608/Chuunibyou_demo_Koi_ga_Shitai_Movie__Take_On_Me)        |  Drama, Comedy, Slice of Life, Romance, School 
 | 🎞 [Cowboy Bebop](https://myanimelist.net/anime/1/Cowboy_Bebop)        |    Action, Adventure, Comedy, Drama, Sci-Fi, Space | Spring 1998 | ⭐ 8.79 | 
 | 🎞 [Dagashi Kashi](https://myanimelist.net/anime/31636/Dagashi_Kashi)        |   Comedy, Shounen, Slice of Life | Winter 2016 | ⭐ 6.65 | 
 | 🎞 [Deca-Dence](https://myanimelist.net/anime/40056/Deca-Dence)                                |  Action, Sci-Fi, Adventure   | Summer 2020 | ⭐ 7.57       |
@@ -60,8 +62,8 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 📽 [The Animatrix](https://myanimelist.net/anime/1303/The_Animatrix)        |  Action, Drama, Sci-Fi, Anime | 2003 | ⭐ 7.29 | 
 | 🎞 [Tonikaku Kawaii](https://myanimelist.net/anime/41389/Tonikaku_Kawaii)    | Comedy, Romance, Shounen | Fall 2020 | ⭐ 7.78 |
 | 🎞 [Vivy: Fluorite Eye's Song](https://myanimelist.net/anime/46095/Vivy__Fluorite_Eyes_Song)    | Sci-Fi, Music | Spring 2021 | ⭐ 8.04 |
-| 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
 | 🎞 [Yu☆Gi☆Oh! Zexal](https://myanimelist.net/anime/10015/Yu%E2%98%86Gi%E2%98%86Oh_Zexal)        | Action, Fantasy |  Spring 2011 | ⭐ 6.35 | 
+| 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
 
 
 
