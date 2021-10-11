@@ -65,5 +65,8 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Vivy: Fluorite Eye's Song](https://myanimelist.net/anime/46095/Vivy__Fluorite_Eyes_Song)    | Sci-Fi, Music | Spring 2021 | ⭐ 8.04 |
 | 🎞 [Yu☆Gi☆Oh! Zexal](https://myanimelist.net/anime/10015/Yu%E2%98%86Gi%E2%98%86Oh_Zexal)        | Action, Fantasy |  Spring 2011 | ⭐ 6.35 | 
 | 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
+| 🎞 [Texhnolyze](https://myanimelist.net/anime/26/Texhnolyze)        |  Action, Drama, Thriller | Spring 2003 | ⭐ 7.76 | 
+| 🎞 [Ergo Proxy](https://myanimelist.net/anime/790/Ergo_Proxy)        |  Mystery, Sci-Fi  | Winter 2006 | ⭐ 7.91 | 
+| 🎞 [Ghost in the Shell: Stand Alone Complex](https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex)        |  Mecha, Military, Police  | Fall 2002 | ⭐ 8.43 | 
 
 Inspired by [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
