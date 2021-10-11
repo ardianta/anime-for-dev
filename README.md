@@ -14,6 +14,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Angel Beats!](https://myanimelist.net/anime/6547/Angel_Beats)      | Action, Comedy, Drama, School, Supernatural | Spring 2010 | ⭐ 8.18 |   
 | 📽 [Battle Programmer Shirase](https://myanimelist.net/anime/579/Battle_Programmer_Shirase) |   Comedy, Ecchi, Sci-Fi | 2004 | ⭐ 7.64 |
 | 📽 [Blood-C: The Last Dark](https://myanimelist.net/anime/10681/Blood-C__The_Last_Dark)        |  Action, Horror, Supernatural, Vampire | 2012 | ⭐ 7.21 | 
+| 🎞 [Bokutachi no Remake](https://myanimelist.net/anime/40904/Bokutachi_no_Remake?q=bokutaci&cat=anime)        |  Drama, Romance, Slice of Life | 2021 | ⭐ 7.52 | 
 | 📽 [Byousoku 5 Centimeter](https://myanimelist.net/anime/1689/Byousoku_5_Centimeter)        | Drama, Romance, Slice of Life | 2007 | ⭐ 7.78 | 
 | 🎞 [Bungou Stray Dogs](https://myanimelist.net/anime/31478/Bungou_Stray_Dogs) |  Action, Comedy, Mystery, Seinen, Super Power, Supernatural | Spring 2016 | ⭐ 7.78 |  
 | 🎞 [Bungou Stray Dogs 2nd Season](https://myanimelist.net/anime/32867/Bungou_Stray_Dogs_2nd_Season) | Action, Mystery, Seinen, Super Power, Supernatural | Fall 2016 | ⭐ 8.22 |
