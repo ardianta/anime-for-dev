@@ -38,6 +38,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Kami-tachi ni Hirowareta Otoko](https://myanimelist.net/anime/41312/Kami-tachi_ni_Hirowareta_Otoko)  | Adventure, Slice of Life, Magic, Fantasy | Fall 2020 | ⭐ 6.91 |
 | 🎞 [Kemono Jihen](https://myanimelist.net/anime/40908/Kemono_Jihen)        |   Action, Mystery, Demons, Supernatural, Shounen | Winter 2021 | ⭐ 7.46 |
 | 📽 [Koukaku Kidoutai](https://myanimelist.net/anime/43/Koukaku_Kidoutai)        |  Action, Mecha, Police, Psychological, Sci-Fi, Seinen  | 1995 | ⭐ 8.30 |
+| 🎞 [Mobile Suit Gundam: The Origin](https://myanimelist.net/anime/10937/Mobile_Suit_Gundam__The_Origin)| Action, Sci-Fi   | 2018 | ⭐ 8.34     |
 | 🎞 [New Game!](https://myanimelist.net/anime/31953/New_Game)                                |  Game, Slice of Life, Comedy   | Summer 2016 | ⭐ 7.64       |
 | 🎞 [New Game!!](https://myanimelist.net/anime/34914/New_Game)                                |  Game, Slice of Life, Comedy   |  Summer 2017 | ⭐ 7.79      |
 | 🎞 [No Game No Life](https://myanimelist.net/anime/19815/No_Game_No_Life)        |  Game, Adventure, Comedy, Supernatural, Ecchi, Fantasy | Spring 2014 | ⭐ 8.24 |
