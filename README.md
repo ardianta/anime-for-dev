@@ -59,6 +59,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 📽 [Sword Art Online Movie: Ordinal Scale](https://myanimelist.net/anime/31765/Sword_Art_Online_Movie__Ordinal_Scale) |  Action, Game, Adventure, Romance, Fantasy | 2017 | ⭐ 7.70 |
 | 🎞 [Sword Art Online: Alicization ](https://myanimelist.net/anime/36474/Sword_Art_Online__Alicization) |  Action, Game, Adventure, Romance, Fantasy | Fall 2018 | ⭐ 7.59 |
 | 🎞 [Sword Art Online: Alicization - War Of Underworld](https://myanimelist.net/anime/40540/Sword_Art_Online__Alicization_-_War_of_Underworld_2nd_Season) |Action, Game, Adventure, Romance, Fantasy |  Summer 2020 | ⭐ 7.46 |
+| 🎞 [Subete ga F ni Naru](https://myanimelist.net/anime/28621/Subete_ga_F_ni_Naru) | Mystery, Sci-Fi | 2015 | ⭐ 7.27 |
 | 📽 [Summer Wars](https://myanimelist.net/anime/5681/Summer_Wars)        |  Sci-Fi, Comedy | 2009 | ⭐ 8.11 | 7.46
 | 📽 [The Animatrix](https://myanimelist.net/anime/1303/The_Animatrix)        |  Action, Drama, Sci-Fi, Anime | 2003 | ⭐ 7.29 | 
 | 🎞 [Tonikaku Kawaii](https://myanimelist.net/anime/41389/Tonikaku_Kawaii)    | Comedy, Romance, Shounen | Fall 2020 | ⭐ 7.78 |
