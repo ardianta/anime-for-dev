@@ -27,6 +27,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞️ [Darwin's Game](https://myanimelist.net/anime/38656/Darwins_Game)         | Action, Mystery, Sci-Fi | Winter 2020 | ⭐ 7.27 |
 | 🎞 [Deca-Dence](https://myanimelist.net/anime/40056/Deca-Dence)                                |  Action, Sci-Fi, Adventure   | Summer 2020 | ⭐ 7.57       |
 | 🎞 [Digimon Adventure](https://myanimelist.net/anime/552/Digimon_Adventure)      |  Action, Adventure, Comedy, Fantasy, Kids  | Spring 1999 | ⭐ 7.80       |
+| 🎞 [Dimension W](https://myanimelist.net/anime/31163/Dimension_W)      |  Action, Sci-Fi  | Winter 2016 | ⭐ 7.20      |
 | 🎞 [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion)      | Action, Sci-Fi, Dementia, Psychological, Drama, Mecha| Fall 1995| ⭐ 8.31 |   
 | 🎞 [Fugou Keiji: Balance:Unlimited](https://myanimelist.net/anime/41120/Fugou_Keiji__Balance_Unlimited)      | Action, Comedy, Police, Mystery| Spring 2020 | ⭐ 7.63 |
 | 🎞 [Godzilla: S.P](https://myanimelist.net/anime/43229/Godzilla__SP)                   |Action, Sci-Fi, Mecha | Spring 2021 | ⭐ 7.07 
