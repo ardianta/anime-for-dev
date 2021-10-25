@@ -65,6 +65,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Tonikaku Kawaii](https://myanimelist.net/anime/41389/Tonikaku_Kawaii)    | Comedy, Romance, Shounen | Fall 2020 | ⭐ 7.78 |
 | 🎞 [Vivy: Fluorite Eye's Song](https://myanimelist.net/anime/46095/Vivy__Fluorite_Eyes_Song)    | Sci-Fi, Music | Spring 2021 | ⭐ 8.04 |
 | 🎞 [Yu☆Gi☆Oh! Zexal](https://myanimelist.net/anime/10015/Yu%E2%98%86Gi%E2%98%86Oh_Zexal)        | Action, Fantasy |  Spring 2011 | ⭐ 6.35 | 
-| 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
+| 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 |
+| 🎞 [Kobayashi-san Chi no Maid Dragon](https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon)        |  Comedy, Fantasy, Slice of Life | Winter 2017 | ⭐ 8.01 |
 
 Inspired by [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
