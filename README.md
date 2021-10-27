@@ -11,6 +11,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | TITLE                                                                                      | GENRE                          | SEASON/YEAR | MAL SCORE  |
 |--------------------------------------------------------------------------------------------|--------------------------------|-------------|------------|
 | 🎞 [.hack//Sign](https://myanimelist.net/anime/48/hack__Sign)      | Game, Sci-Fi, Adventure, Mystery, Magic, Fantasy | Spring 2002 | ⭐ 7.00 | 
+| 🎞 [Accel World](https://myanimelist.net/anime/11759/Accel_World?q=accel&cat=anime)    | Action, Romance, Sci-Fi | Spring 2021 | ⭐ 7.27 |
 | 🎞 [Angel Beats!](https://myanimelist.net/anime/6547/Angel_Beats)      | Action, Comedy, Drama, School, Supernatural | Spring 2010 | ⭐ 8.18 |   
 | 📽 [Battle Programmer Shirase](https://myanimelist.net/anime/579/Battle_Programmer_Shirase) |   Comedy, Ecchi, Sci-Fi | 2004 | ⭐ 7.64 |
 | 📽 [Blood-C: The Last Dark](https://myanimelist.net/anime/10681/Blood-C__The_Last_Dark)        |  Action, Horror, Supernatural, Vampire | 2012 | ⭐ 7.21 | 
@@ -37,6 +38,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Kamisama no Memochou](https://myanimelist.net/anime/10568/Kamisama_no_Memochou)  | Mystery | Summer 2011 | ⭐ 7.55 |
 | 🎞 [Kami-tachi ni Hirowareta Otoko](https://myanimelist.net/anime/41312/Kami-tachi_ni_Hirowareta_Otoko)  | Adventure, Slice of Life, Magic, Fantasy | Fall 2020 | ⭐ 6.91 |
 | 🎞 [Kemono Jihen](https://myanimelist.net/anime/40908/Kemono_Jihen)        |   Action, Mystery, Demons, Supernatural, Shounen | Winter 2021 | ⭐ 7.46 |
+| 🎞 [Kobayashi-san Chi no Maid Dragon](https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon)        |  Comedy, Fantasy, Slice of Life | Winter 2017 | ⭐ 8.01 |
 | 📽 [Koukaku Kidoutai](https://myanimelist.net/anime/43/Koukaku_Kidoutai)        |  Action, Mecha, Police, Psychological, Sci-Fi, Seinen  | 1995 | ⭐ 8.30 |
 | 🎞 [New Game!](https://myanimelist.net/anime/31953/New_Game)                                |  Game, Slice of Life, Comedy   | Summer 2016 | ⭐ 7.64       |
 | 🎞 [New Game!!](https://myanimelist.net/anime/34914/New_Game)                                |  Game, Slice of Life, Comedy   |  Summer 2017 | ⭐ 7.79      |
@@ -65,6 +67,6 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Tonikaku Kawaii](https://myanimelist.net/anime/41389/Tonikaku_Kawaii)    | Comedy, Romance, Shounen | Fall 2020 | ⭐ 7.78 |
 | 🎞 [Vivy: Fluorite Eye's Song](https://myanimelist.net/anime/46095/Vivy__Fluorite_Eyes_Song)    | Sci-Fi, Music | Spring 2021 | ⭐ 8.04 |
 | 🎞 [Yu☆Gi☆Oh! Zexal](https://myanimelist.net/anime/10015/Yu%E2%98%86Gi%E2%98%86Oh_Zexal)        | Action, Fantasy |  Spring 2011 | ⭐ 6.35 | 
-| 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
+| 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 |
 
 Inspired by [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
