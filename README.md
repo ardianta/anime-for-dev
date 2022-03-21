@@ -63,6 +63,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Sword Art Online: Alicization - War Of Underworld](https://myanimelist.net/anime/40540/Sword_Art_Online__Alicization_-_War_of_Underworld_2nd_Season) |Action, Game, Adventure, Romance, Fantasy |  Summer 2020 | ⭐ 7.46 |
 | 📽 [Summer Wars](https://myanimelist.net/anime/5681/Summer_Wars)        |  Sci-Fi, Comedy | 2009 | ⭐ 8.11 | 7.46
 | 📽 [The Animatrix](https://myanimelist.net/anime/1303/The_Animatrix)        |  Action, Drama, Sci-Fi, Anime | 2003 | ⭐ 7.29 | 
+| 🎞 [Toaru Kagaku no Railgun](https://myanimelist.net/anime/6213/Toaru_Kagaku_no_Railgun)        |  Action, Sci-Fi, Super Power | Fall 2009 | ⭐ 7.69 |
 | 🎞 [Tonikaku Kawaii](https://myanimelist.net/anime/41389/Tonikaku_Kawaii)    | Comedy, Romance, Shounen | Fall 2020 | ⭐ 7.78 |
 | 🎞 [Vivy: Fluorite Eye's Song](https://myanimelist.net/anime/46095/Vivy__Fluorite_Eyes_Song)    | Sci-Fi, Music | Spring 2021 | ⭐ 8.04 |
 | 🎞 [Yu☆Gi☆Oh! Zexal](https://myanimelist.net/anime/10015/Yu%E2%98%86Gi%E2%98%86Oh_Zexal)        | Action, Fantasy |  Spring 2011 | ⭐ 6.35 | 
