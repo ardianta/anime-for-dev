@@ -20,6 +20,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Bungou Stray Dogs](https://myanimelist.net/anime/31478/Bungou_Stray_Dogs) |  Action, Comedy, Mystery, Seinen, Super Power, Supernatural | Spring 2016 | ⭐ 7.78 |  
 | 🎞 [Bungou Stray Dogs 2nd Season](https://myanimelist.net/anime/32867/Bungou_Stray_Dogs_2nd_Season) | Action, Mystery, Seinen, Super Power, Supernatural | Fall 2016 | ⭐ 8.22 |
 | 🎞 [Bungou Stray Dogs 3rd Season](https://myanimelist.net/anime/38003/Bungou_Stray_Dogs_3rd_Season) | Action, Mystery, Seinen, Super Power, Supernatural | Spring 2019 | ⭐ 8.16 |	
+| 🎞 [Charlotte](https://myanimelist.net/anime/28999/Charlotte)    |  Drama,  School, Super Power |  Summer 2015 | ⭐ 7.75 | 
 | 🎞 [Choujigen Game Neptune The Animation](https://myanimelist.net/anime/16157/Choujigen_Game_Neptune_The_Animation)    |  Action, Comedy, Fantasy, Sci-Fi, Supernatural | Summer 2013 | ⭐ 6.95 | 
 | 🎞 [Chuunibyou demo Koi ga Shitai!](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai)        |  Drama, Comedy, Slice of Life, Romance, School | Fall 2012 | ⭐ 7.78 |
 | 🎞 [Chuunibyou demo Koi ga Shitai! Ren](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai)        |  Drama, Comedy, Slice of Life, Romance, School | Winter 2014 | ⭐ 7.56 |
