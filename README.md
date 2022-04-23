@@ -34,6 +34,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Godzilla: S.P](https://myanimelist.net/anime/43229/Godzilla__SP)                   |Action, Sci-Fi, Mecha | Spring 2021 | ⭐ 7.07 
 | 🎞 [Guilty Crown](https://myanimelist.net/anime/10793/Guilty_Crown)                   |Action, Sci-Fi, Super Power, Drama, Romance, Mecha | Fall 2011 | ⭐ 7.55 |
 | 📽 [Hello World](https://myanimelist.net/anime/38816/Hello_World)                   | Sci-Fi, Drama, Romance | 2019 | ⭐ 7.61 |
+|🎞️ [High Score Girl](https://myanimelist.net/anime/21877/High_Score_Girl)                        | Comedy, Romance | Summer 2018 | ⭐ 7.82 |
 | 🎞 [Kamisama ni Natta Hi](https://myanimelist.net/anime/41930/Kamisama_ni_Natta_Hi) |  Drama, Fantasy | Fall 2020 | ⭐ 7.58 |
 | 🎞 [Kamisama no Memochou](https://myanimelist.net/anime/10568/Kamisama_no_Memochou)  | Mystery | Summer 2011 | ⭐ 7.55 |
 | 🎞 [Kami-tachi ni Hirowareta Otoko](https://myanimelist.net/anime/41312/Kami-tachi_ni_Hirowareta_Otoko)  | Adventure, Slice of Life, Magic, Fantasy | Fall 2020 | ⭐ 6.91 |
