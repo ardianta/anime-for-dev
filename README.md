@@ -40,6 +40,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Kemono Jihen](https://myanimelist.net/anime/40908/Kemono_Jihen)        |   Action, Mystery, Demons, Supernatural, Shounen | Winter 2021 | ⭐ 7.46 |
 | 🎞 [Kobayashi-san Chi no Maid Dragon](https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon)        |  Comedy, Fantasy, Slice of Life | Winter 2017 | ⭐ 8.01 |
 | 📽 [Koukaku Kidoutai](https://myanimelist.net/anime/43/Koukaku_Kidoutai)        |  Action, Mecha, Police, Psychological, Sci-Fi, Seinen  | 1995 | ⭐ 8.30 |
+| 🎞 [Mobile Suit Gundam: The Origin](https://myanimelist.net/anime/10937/Mobile_Suit_Gundam__The_Origin)| Action, Sci-Fi   | 2018 | ⭐ 8.34     |
 | 🎞 [New Game!](https://myanimelist.net/anime/31953/New_Game)                                |  Game, Slice of Life, Comedy   | Summer 2016 | ⭐ 7.64       |
 | 🎞 [New Game!!](https://myanimelist.net/anime/34914/New_Game)                                |  Game, Slice of Life, Comedy   |  Summer 2017 | ⭐ 7.79      |
 | 🎞 [No Game No Life](https://myanimelist.net/anime/19815/No_Game_No_Life)        |  Game, Adventure, Comedy, Supernatural, Ecchi, Fantasy | Spring 2014 | ⭐ 8.24 |
