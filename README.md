@@ -10,7 +10,6 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 
 | TITLE                                                                                      | GENRE                          | SEASON/YEAR | MAL SCORE  |
 |--------------------------------------------------------------------------------------------|--------------------------------|-------------|------------|
-| 📽 [Detective Conan Movie 22: Zero The Enforcer](https://myanimelist.net/anime/35798/Detective_Conan_Movie_22__Zero_the_Enforcer) | Action, Drama, Mystery, Crime | 2018 | ⭐ 7.84 |
 | 🎞 [.hack//Sign](https://myanimelist.net/anime/48/hack__Sign)      | Game, Sci-Fi, Adventure, Mystery, Magic, Fantasy | Spring 2002 | ⭐ 7.00 | 
 | 🎞 [Accel World](https://myanimelist.net/anime/11759/Accel_World?q=accel&cat=anime)    | Action, Romance, Sci-Fi | Spring 2012 | ⭐ 7.27 |
 | 🎞 [Angel Beats!](https://myanimelist.net/anime/6547/Angel_Beats)      | Action, Comedy, Drama, School, Supernatural | Spring 2010 | ⭐ 8.18 |   
@@ -29,6 +28,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Dagashi Kashi](https://myanimelist.net/anime/31636/Dagashi_Kashi)        |   Comedy, Shounen, Slice of Life | Winter 2016 | ⭐ 6.65 | 
 | 🎞️ [Darwin's Game](https://myanimelist.net/anime/38656/Darwins_Game)         | Action, Mystery, Sci-Fi | Winter 2020 | ⭐ 7.27 |
 | 🎞 [Deca-Dence](https://myanimelist.net/anime/40056/Deca-Dence)                                |  Action, Sci-Fi, Adventure   | Summer 2020 | ⭐ 7.57       |
+| 📽 [Detective Conan Movie 22: Zero The Enforcer](https://myanimelist.net/anime/35798/Detective_Conan_Movie_22__Zero_the_Enforcer) | Action, Drama, Mystery, Crime | 2018 | ⭐ 7.84 |
 | 🎞 [Digimon Adventure](https://myanimelist.net/anime/552/Digimon_Adventure)      |  Action, Adventure, Comedy, Fantasy, Kids  | Spring 1999 | ⭐ 7.80       |
 | 🎞 [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion)      | Action, Sci-Fi, Dementia, Psychological, Drama, Mecha| Fall 1995| ⭐ 8.31 |   
 | 🎞 [Fugou Keiji: Balance:Unlimited](https://myanimelist.net/anime/41120/Fugou_Keiji__Balance_Unlimited)      | Action, Comedy, Police, Mystery| Spring 2020 | ⭐ 7.63 |
