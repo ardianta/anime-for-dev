@@ -10,6 +10,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 
 | TITLE                                                                                      | GENRE                          | SEASON/YEAR | MAL SCORE  |
 |--------------------------------------------------------------------------------------------|--------------------------------|-------------|------------|
+| 📽 [Detective Conan Movie 22: Zero The Enforcer](https://myanimelist.net/anime/35798/Detective_Conan_Movie_22__Zero_the_Enforcer) | Action, Drama, Mystery, Crime | 2018 | ⭐ 7.84 |
 | 🎞 [.hack//Sign](https://myanimelist.net/anime/48/hack__Sign)      | Game, Sci-Fi, Adventure, Mystery, Magic, Fantasy | Spring 2002 | ⭐ 7.00 | 
 | 🎞 [Accel World](https://myanimelist.net/anime/11759/Accel_World?q=accel&cat=anime)    | Action, Romance, Sci-Fi | Spring 2012 | ⭐ 7.27 |
 | 🎞 [Angel Beats!](https://myanimelist.net/anime/6547/Angel_Beats)      | Action, Comedy, Drama, School, Supernatural | Spring 2010 | ⭐ 8.18 |   
