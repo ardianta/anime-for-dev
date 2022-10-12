@@ -53,6 +53,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Sekirei](https://myanimelist.net/anime/4063/Sekirei)                 |  Action, Comedy, Ecchi, Harem, Super Power| Summer 2008 | ⭐ 7.16|
 | 🎞 [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)                   |Dementia, Drama, Mystery, Psychological, Sci-Fi, Supernatural| Summer 1998| ⭐ 8.02 |
 | 🎞 [Sewayaki Kitsune no Senko-san](https://myanimelist.net/anime/38759/Sewayaki_Kitsune_no_Senko-san)        |   Comedy, Romance, Slice of Life, Supernatural | Spring 2019 | ⭐ 7.38 |
+| 🎞 [Shirobako](https://myanimelist.net/anime/25835/Shirobako?q=shir&cat=anime)        |   Comedy, Drama | Fall 2014 | ⭐ 8.32 |
 | 🎞 [Steins; Gate](https://myanimelist.net/anime/9253/Steins_Gate)        |  Thriller, Sci-Fi | Spring 2011 | ⭐ 9.12 | 
 | 📽 [Steins; Gate Movie: Fuka Ryouiki no Deja Vu](https://myanimelist.net/anime/11577/Steins_Gate_Movie__Fuka_Ryouiki_no_Deja_vu) | Sci-Fi, Drama | 2013 | ⭐ 8.51 |  
 | 🎞 [Steins; Gate 0](https://myanimelist.net/anime/30484/Steins_Gate_0) | Sci-Fi, Thriller | Spring 2018 | ⭐ 8.52 | 
