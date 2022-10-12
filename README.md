@@ -69,6 +69,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Yu☆Gi☆Oh! Zexal](https://myanimelist.net/anime/10015/Yu%E2%98%86Gi%E2%98%86Oh_Zexal)        | Action, Fantasy |  Spring 2011 | ⭐ 6.35 | 
 | 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 |
 | 🎞 [Miss Kobayashi's Dragon Maid](https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon)      | Fantasy, Slice of Life | Winter 2017 | ⭐ 7.98 | 
+| 🎞 [Miss Kobayashi's Dragon Maid S](https://myanimelist.net/anime/39247/Kobayashi-san_Chi_no_Maid_Dragon_S)      | Fantasy, Slice of Life | Summer 2021 | ⭐ 8.35 | 
 
 
 Inspired by [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
