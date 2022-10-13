@@ -45,6 +45,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [New Game!!](https://myanimelist.net/anime/34914/New_Game)                                |  Game, Slice of Life, Comedy   |  Summer 2017 | ⭐ 7.79      |
 | 🎞 [No Game No Life](https://myanimelist.net/anime/19815/No_Game_No_Life)        |  Game, Adventure, Comedy, Supernatural, Ecchi, Fantasy | Spring 2014 | ⭐ 8.24 |
 | 📽 [No Game No Life: Zero](https://myanimelist.net/anime/33674/No_Game_No_Life__Zero)        |  Game, Supernatural, Drama, Romance, Fantasy | Summer 2017 | ⭐ 8.38 |
+| 🎞 [Noblesse](https://myanimelist.net/anime/41345/Noblesse)        | Action, SUpernatural    | Fall 2020 | ⭐ 6.78      |
 | 🎞 [Persona 5 the Animation](https://myanimelist.net/anime/36023/Persona_5_the_Animation) | Action, Fantasy, Supernatural | Spring 2018 | ⭐ 6.51 |
 | 🎞 [Psycho-Pass](https://myanimelist.net/anime/13601/Psycho-Pass)        |   Action, Sci-Fi, Police, Psychological | Fall 2012 | ⭐ 8.39 |
 | 🎞 [Rikei ga Koi ni Ochita no de Shoumei shitemita](https://myanimelist.net/anime/38992/Rikei_ga_Koi_ni_Ochita_no_de_Shoumei_shitemita)	|	Comedy, Romance | Winter 2020 | ⭐ 7.35 | 
