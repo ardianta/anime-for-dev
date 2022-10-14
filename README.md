@@ -71,6 +71,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 |
 | 🎞 [Miss Kobayashi's Dragon Maid](https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon)      | Fantasy, Slice of Life | Winter 2017 | ⭐ 7.98 | 
 | 🎞 [Miss Kobayashi's Dragon Maid S](https://myanimelist.net/anime/39247/Kobayashi-san_Chi_no_Maid_Dragon_S)      | Fantasy, Slice of Life | Summer 2021 | ⭐ 8.35 | 
-
+| 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)      | Mystery, Suspense | Summer 2014 | ⭐ 8.10 |
+| 🎞 [Shinryaku! Ika Musume - The Squid Girl](https://myanimelist.net/anime/8557/Shinryaku_Ika_Musume)      | Comedy, Slice of Life | Fall 2010 | ⭐ 7.42 |
 
 Inspired by [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
