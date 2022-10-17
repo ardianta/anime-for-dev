@@ -27,6 +27,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Cowboy Bebop](https://myanimelist.net/anime/1/Cowboy_Bebop)        |    Action, Adventure, Comedy, Drama, Sci-Fi, Space | Spring 1998 | ⭐ 8.79 | 
 | 🎞 [Dagashi Kashi](https://myanimelist.net/anime/31636/Dagashi_Kashi)        |   Comedy, Shounen, Slice of Life | Winter 2016 | ⭐ 6.65 | 
 | 🎞️ [Darwin's Game](https://myanimelist.net/anime/38656/Darwins_Game)         | Action, Mystery, Sci-Fi | Winter 2020 | ⭐ 7.27 |
+| 🎞️ [Demon Slayer](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba)         | Adventure fiction, Dark fantasy, Martial Arts | Spring 2019 | ⭐ 8.53 |
 | 🎞 [Deca-Dence](https://myanimelist.net/anime/40056/Deca-Dence)                                |  Action, Sci-Fi, Adventure   | Summer 2020 | ⭐ 7.57       |
 | 🎞 [Digimon Adventure](https://myanimelist.net/anime/552/Digimon_Adventure)      |  Action, Adventure, Comedy, Fantasy, Kids  | Spring 1999 | ⭐ 7.80       |
 | 🎞 [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion)      | Action, Sci-Fi, Dementia, Psychological, Drama, Mecha| Fall 1995| ⭐ 8.31 |   
