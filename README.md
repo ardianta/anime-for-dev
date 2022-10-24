@@ -75,5 +75,6 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Miss Kobayashi's Dragon Maid S](https://myanimelist.net/anime/39247/Kobayashi-san_Chi_no_Maid_Dragon_S)      | Fantasy, Slice of Life | Summer 2021 | ⭐ 8.35 | 
 | 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)      | Mystery, Suspense | Summer 2014 | ⭐ 8.10 |
 | 🎞 [Shinryaku! Ika Musume - The Squid Girl](https://myanimelist.net/anime/8557/Shinryaku_Ika_Musume)      | Comedy, Slice of Life | Fall 2010 | ⭐ 7.42 |
+| 🎞 [Kaguya-sama: Love is War](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)      | Comedy | Winter 2019 | ⭐ 8.41 |
 
 Inspired by [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
