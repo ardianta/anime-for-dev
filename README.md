@@ -25,6 +25,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 🎞 [Chuunibyou demo Koi ga Shitai! Ren](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai)        |  Drama, Comedy, Slice of Life, Romance, School | Winter 2014 | ⭐ 7.56 |
 | 📽 [Chuunibyou demo Koi ga Shitai! Movie: Take On Me](https://myanimelist.net/anime/35608/Chuunibyou_demo_Koi_ga_Shitai_Movie__Take_On_Me)        |  Drama, Comedy, Slice of Life, Romance, School | Winter 2018 | ⭐ 8.17 |
 | 🎞 [Cowboy Bebop](https://myanimelist.net/anime/1/Cowboy_Bebop)        |    Action, Adventure, Comedy, Drama, Sci-Fi, Space | Spring 1998 | ⭐ 8.79 | 
+| 🎞 [Cyberpunk: Edgerunners](https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners)        |    Action, Sci-Fi | Autumn 2022 | ⭐ 8.71 | 
 | 🎞 [Dagashi Kashi](https://myanimelist.net/anime/31636/Dagashi_Kashi)        |   Comedy, Shounen, Slice of Life | Winter 2016 | ⭐ 6.65 | 
 | 🎞️ [Darwin's Game](https://myanimelist.net/anime/38656/Darwins_Game)         | Action, Mystery, Sci-Fi | Winter 2020 | ⭐ 7.27 |
 | 🎞 [Deca-Dence](https://myanimelist.net/anime/40056/Deca-Dence)                                |  Action, Sci-Fi, Adventure   | Summer 2020 | ⭐ 7.57       |
