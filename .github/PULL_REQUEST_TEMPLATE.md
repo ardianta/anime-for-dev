@@ -3,10 +3,11 @@
   Before you make PR, please fill this form
 -->
 
-- **Title**: <!-- Write anime's title here -->
-- **Link**: <!-- Write MyAnimeList's link here -->
+- **Title**: Rakuen Tsuihou: Expelled from Paradise (Expelled from Paradise)
+- **Link**: https://myanimelist.net/anime/13391/Rakuen_Tsuihou
 
 **Why this anime should watched by developer?**
 
-<!-- write your answer -->
-<!-- for example: Some of characher of this anime are programmer/hacker -->
+This anime tells the story of a girl named Angela Balzac who lives in a digital world on a space station. One day there was a hacker from earth broke into the computer system there. Angela was assigned to come down to earth and investigate and stop the hacker
+
+Angela Balzac
