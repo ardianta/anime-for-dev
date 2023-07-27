@@ -10,7 +10,7 @@ A curated list of animes every developer should watch.
 Legend: 🎞 = Anime series, 📽 = Anime Movie
 
 | TITLE                                                                                                                                                   | GENRE                                                         | SEASON/YEAR | MAL SCORE |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------- | --------- | ---- |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------- | --------- |
 | 🎞 [.hack//Sign](https://myanimelist.net/anime/48/hack__Sign)                                                                                            | Game, Sci-Fi, Adventure, Mystery, Magic, Fantasy              | Spring 2002 | ⭐ 7.00   |
 | 🎞 [Accel World](https://myanimelist.net/anime/11759/Accel_World?q=accel&cat=anime)                                                                      | Action, Romance, Sci-Fi                                       | Spring 2012 | ⭐ 7.27   |
 | 🎞 [Angel Beats!](https://myanimelist.net/anime/6547/Angel_Beats)                                                                                        | Action, Comedy, Drama, School, Supernatural                   | Spring 2010 | ⭐ 8.18   |
@@ -66,16 +66,17 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 📽 [Sword Art Online Movie: Ordinal Scale](https://myanimelist.net/anime/31765/Sword_Art_Online_Movie__Ordinal_Scale)                                    | Action, Game, Adventure, Romance, Fantasy                     | 2017        | ⭐ 7.70   |
 | 🎞 [Sword Art Online: Alicization ](https://myanimelist.net/anime/36474/Sword_Art_Online__Alicization)                                                   | Action, Game, Adventure, Romance, Fantasy                     | Fall 2018   | ⭐ 7.59   |
 | 🎞 [Sword Art Online: Alicization - War Of Underworld](https://myanimelist.net/anime/40540/Sword_Art_Online__Alicization_-_War_of_Underworld_2nd_Season) | Action, Game, Adventure, Romance, Fantasy                     | Summer 2020 | ⭐ 7.46   |
-| 📽 [Summer Wars](https://myanimelist.net/anime/5681/Summer_Wars)                                                                                         | Sci-Fi, Comedy                                                | 2009        | ⭐ 8.11   | 7.46 |
+| 📽 [Summer Wars](https://myanimelist.net/anime/5681/Summer_Wars)                                                                                         | Sci-Fi, Comedy                                                | 2009        | ⭐ 8.11   |
 | 📽 [The Animatrix](https://myanimelist.net/anime/1303/The_Animatrix)                                                                                     | Action, Drama, Sci-Fi, Anime                                  | 2003        | ⭐ 7.29   |
 | 🎞 [Tonikaku Kawaii](https://myanimelist.net/anime/41389/Tonikaku_Kawaii)                                                                                | Comedy, Romance, Shounen                                      | Fall 2020   | ⭐ 7.78   |
 | 🎞 [Vivy: Fluorite Eye's Song](https://myanimelist.net/anime/46095/Vivy__Fluorite_Eyes_Song)                                                             | Sci-Fi, Music                                                 | Spring 2021 | ⭐ 8.04   |
-| 🎞 [Yu☆Gi☆Oh! Zexal](https://myanimelist.net/anime/10015/Yu%E2%98%86Gi%E2%98%86Oh_Zexal)                                                                 | Action, Fantasy                                               | Spring 2011 | ⭐ 6.35   |
+| 🎞 [Yu☆Gi☆Oh! Zexal](https://myanimelist.net/anime/10015/Yu%E2%98%86Gi%E2%98%86Oh_Zexal)                                                                | Action, Fantasy                                               | Spring 2011 | ⭐ 6.35   |
 | 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)                                                                            | Mystery, Psychological, Thriller                              | Summer 2014 | ⭐ 8.13   |
 | 🎞 [Miss Kobayashi's Dragon Maid](https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon)                                                  | Fantasy, Slice of Life                                        | Winter 2017 | ⭐ 7.98   |
 | 🎞 [Miss Kobayashi's Dragon Maid S](https://myanimelist.net/anime/39247/Kobayashi-san_Chi_no_Maid_Dragon_S)                                              | Fantasy, Slice of Life                                        | Summer 2021 | ⭐ 8.35   |
 | 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)                                                                            | Mystery, Suspense                                             | Summer 2014 | ⭐ 8.10   |
 | 🎞 [Shinryaku! Ika Musume - The Squid Girl](https://myanimelist.net/anime/8557/Shinryaku_Ika_Musume)                                                     | Comedy, Slice of Life                                         | Fall 2010   | ⭐ 7.42   |
 | 🎞 [Welcome to the NHK - NHK ni Youkoso!](https://myanimelist.net/anime/1210/NHK_ni_Youkoso)                                                             | Comedy, Drama, Romance                                        | Summer 2006 | ⭐ 8.31   |
-
+| 🎞 [Oniichan wa Oshimai!](https://myanimelist.net/anime/51678/Oniichan_wa_Oshimai)                                                             | Comedy, Slice of Life                                        | Winter 2023 | ⭐ 7.70
+   |
 Inspired by [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
